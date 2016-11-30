@@ -1,0 +1,12 @@
+{
+  "name": "express-demo",
+  "version": "0.0.1",
+  "authors": [
+    "wangdapeng1005"
+  ],
+  "description": "express-demo code",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
