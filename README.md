@@ -8,7 +8,7 @@
 # install dependencies
 npm install
 
-# install bootstrap 
+# install bower and bootstrap 
 npm install bower -g 
 bower install bootstrap
 
